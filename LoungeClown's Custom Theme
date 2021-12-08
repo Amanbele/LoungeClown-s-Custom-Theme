@@ -1,0 +1,32 @@
+/**
+* @name Lounge's Custom Theme
+* @version 1.0
+* @description Made by LoungeClown
+* @author LoungeClown
+* @invite 3hyg6wwtfv
+* @Source https://youtu.be/dQw4w9WgXcQ
+* @website https://youtu.be/dQw4w9WgXcQ
+*/
+@import url("https://discordstyles.github.io/MinimalCord/dist/MinimalCord.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch');
+:root {
+--accent: 255,0,113;
+--message-padding: 10px;
+--message-spacing: 0px;
+--font: 'Chakra Petch';
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 2px;
+--rs-large-spacing: 1px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
